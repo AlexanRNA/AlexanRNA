@@ -3,7 +3,7 @@
 
 - 🌱 I am a PhD student in Genetics and Genomics
 - 🔭 I’m currently working on Nextflow analysis pipeline
-- 🧬 I like long reads sequencing a lot
+- 🧬 I like long read sequencing a lot
 
 <!--
 **AlexanRNA/AlexanRNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
